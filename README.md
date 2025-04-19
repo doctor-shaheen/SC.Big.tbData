@@ -1,4 +1,4 @@
-# Big Clinical Tabular Databases Toolkit
+# Tabular Clinical Databases Toolkit
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Placeholder: Replace MIT with your actual license -->
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/) <!-- Placeholder: Update Python version if needed -->
