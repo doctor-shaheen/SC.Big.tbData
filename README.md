@@ -1,4 +1,4 @@
-# Tabular Clinical Databases Toolkit -- ShaheenClinic-databases
+# ShaheenClinic-databases (Tabular Clinical Databases Toolkit)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Placeholder: Replace MIT with your actual license -->
