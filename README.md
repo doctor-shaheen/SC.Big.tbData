@@ -18,6 +18,21 @@ With consistent APIs across both R and Python, Big Clinica helps streamline:
 - 🧪 **Statistical Modeling & Feature Selection**
 - 🧠 **Machine Learning with GPU Acceleration**
 
+
+
+
+---
+**👥 Maintained by Shaheen-Clinic-Open-Source Team**
+We're building tools to make clinical data science fast, modular, and GPU-native.
+Interested in contributing? Open an issue or submit a PR!
+
+**Contact** us to contribute: 
+mailto:ahmeds1999haheen@gmail.com
+
+---
+**📄 License**
+This project is licensed under the MIT License.
+
 ---
 
 ## 🛠 Project Structure
@@ -94,11 +109,14 @@ R-package/
     │   ├── gpu_detection.R
     │   └── logging.R
     └── package.R
-```
+``` 
+
+
+
 <details> 
 <summary>🐍 python-package/</summary>
 
-```
+```text
 python-package/
 ├── pyproject.toml
 ├── setup.py
@@ -196,21 +214,7 @@ python-package/
         ├── gpu_utils.py
         └── logging.py
 ```
----
 
-
--------------
-**👥 Maintained by Shaheen-Clinic-Open-Source Team**
-We're building tools to make clinical data science fast, modular, and GPU-native.
-Interested in contributing? Open an issue or submit a PR!
-
-**Contact us to contribute: 
-ahmeds1999haheen@gmail.com
-
-
--------------
-**📄 License**
-This project is licensed under the MIT License.
 
 
 
